@@ -26,6 +26,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Guerra dos Navegadores é real?](https://www.youtube.com/watch?v=q30O2N0IN5I)
+- [Syllable o Sistema Operacional que ninguém deve usar](https://www.youtube.com/watch?v=sSPvgjo6ZFg)
+- [Tudo sobre a Terceira Geração Intel Xeon](https://www.youtube.com/watch?v=yYhjRiM1uqs)
+- [Big Island, a GPU que vai mexer com a NVIDIA](https://www.youtube.com/watch?v=5QkHXFH3x98)
+- [O que temos de especial no Snapdragon 888?](https://www.youtube.com/watch?v=ELGEZ41AZu8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
