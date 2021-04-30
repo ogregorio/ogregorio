@@ -26,11 +26,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tudo sobre Pontos Flutuantes!](https://www.youtube.com/watch?v=Rxv1utKofh0)
 - [Afinal, o que é FLOP?](https://www.youtube.com/watch?v=8PsRYGClwj8)
 - [Paralelismo - VLIW, Processadores Superescalares e OoOE](https://www.youtube.com/watch?v=2An47qa5J5c)
 - [Seria possível um híbrido de ARM e x86 ?!](https://www.youtube.com/watch?v=5Urr-FvU4qQ)
 - [Icaros Desktop um Amiga para x86](https://www.youtube.com/watch?v=i0-105LCw0o)
-- [Sobre banco de dados NoSQL](https://www.youtube.com/watch?v=OdFcpx097zU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
