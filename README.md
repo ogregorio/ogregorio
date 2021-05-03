@@ -14,6 +14,7 @@ These are some of the certificates I have, I hope to increase this list even mor
 - **Cyber Crimes: The Main Risks and Basic Prevention Techniques** - ACADEPOL
 - **NDG Linux Essentials English 1220m** - Cisco Networking Academy
 - **Project Management** - International Business Management Institute (IBMI)
+- **Machine Learning Essentials for Business and Technical Decision Makers** - AWS(training and certification)
 
 ___
 
