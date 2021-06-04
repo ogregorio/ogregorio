@@ -27,11 +27,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Sobre a AMD Radeon DNA (RDNA)](https://www.youtube.com/watch?v=p7PhxELKvjA)
 - [Vírus Letais de Computador: Chernobyl](https://www.youtube.com/watch?v=xyWPmZ1iVmQ)
 - [Sobre Memórias ECC](https://www.youtube.com/watch?v=bfiu7g2IXZU)
 - [Intel Xe e Ponte Vecchio](https://www.youtube.com/watch?v=Ui_ud4nF_mM)
 - [Um pouco sobre Hypervisors](https://www.youtube.com/watch?v=ibG5YxZOzJk)
-- [Como faz uma GPU em smartphones?](https://www.youtube.com/watch?v=yXTH75ZV6Jc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
