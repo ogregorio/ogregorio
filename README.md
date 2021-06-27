@@ -27,11 +27,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Coreboot e BIOS Open Source](https://www.youtube.com/watch?v=Zl_XYfAyNc0)
 - [Um pouco sobre o Fuchsia](https://www.youtube.com/watch?v=VljXKZldRJU)
 - [Um pouco sobre POSIX](https://www.youtube.com/watch?v=6t1huk0qJ7s)
 - [Vamos falar um pouco sobre IPFS](https://www.youtube.com/watch?v=MBmhRxDtHEA)
 - [Sobre a AMD Radeon DNA (RDNA)](https://www.youtube.com/watch?v=p7PhxELKvjA)
-- [Vírus Letais de Computador: Chernobyl](https://www.youtube.com/watch?v=xyWPmZ1iVmQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
