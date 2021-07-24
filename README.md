@@ -27,11 +27,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Um pouco sobre Transpiladores](https://www.youtube.com/watch?v=DaTUXyB4U6k)
 - [Um pouco sobre Processadores Definidos por Software](https://www.youtube.com/watch?v=ew6tv8YUNJg)
 - [Inteligências Artificiais capazes de produzir processadores!](https://www.youtube.com/watch?v=UxinZr_1L4s)
 - [Empilhamento 3D e Processadores Heterogênios](https://www.youtube.com/watch?v=eL-QkE1kCR4)
 - [Um pouco sobre o Windows 11 e o TPM 2.0](https://www.youtube.com/watch?v=X5EqVyEAt5g)
-- [Coreboot e BIOS Open Source](https://www.youtube.com/watch?v=Zl_XYfAyNc0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
