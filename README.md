@@ -27,11 +27,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Um pouco sobre AMD V-Cache](https://www.youtube.com/watch?v=EaKfNc0DpGw)
 - [Por que o código das Urnas Eletrônicas não é aberto ao público?](https://www.youtube.com/watch?v=KF1ZkuEzfRc)
 - [Transistores, FinFET e RibbonFET](https://www.youtube.com/watch?v=Rb6hsn12ykc)
 - [Um pouco sobre Transpiladores](https://www.youtube.com/watch?v=DaTUXyB4U6k)
 - [Um pouco sobre Processadores Definidos por Software](https://www.youtube.com/watch?v=ew6tv8YUNJg)
-- [Inteligências Artificiais capazes de produzir processadores!](https://www.youtube.com/watch?v=UxinZr_1L4s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
