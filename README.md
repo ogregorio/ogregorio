@@ -27,11 +27,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Intel vai trazer Processadores de IA para o x86?](https://www.youtube.com/watch?v=1jBWnoCckkA)
 - [Brevíssima história sobre o Haskell](https://www.youtube.com/watch?v=1rRJxWKcDOY)
 - [Um pouco sobre Microcódigo](https://www.youtube.com/watch?v=gVHhyhn_O0Q)
 - [Classes de Computadores e Paralelismo ( Dados e Instruções )](https://www.youtube.com/watch?v=tuu-_DxyDTs)
 - [Um pouco sobre Intel Advanced Matrix Extensions (AMX)](https://www.youtube.com/watch?v=LPWieLvsYNI)
-- [A revolução dos processadores: Intel Thread Director](https://www.youtube.com/watch?v=rvKEyu2F480)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
