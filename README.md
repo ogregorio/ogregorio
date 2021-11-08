@@ -31,7 +31,7 @@ These are my latest Youtube videos! My content is in Portuguese, because is my n
 - [Intel vai trazer Processadores de IA para o x86?](https://www.youtube.com/watch?v=1jBWnoCckkA)
 - [Brevíssima história sobre o Haskell](https://www.youtube.com/watch?v=1rRJxWKcDOY)
 - [Um pouco sobre Microcódigo](https://www.youtube.com/watch?v=gVHhyhn_O0Q)
-- [Classes de Computadores e Paralelismo ( Dados e Instruções )](https://www.youtube.com/watch?v=tuu-_DxyDTs)
+- [Classes de Computadores e Paralelismo &lpar; Dados e Instruções &rpar;](https://www.youtube.com/watch?v=tuu-_DxyDTs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
