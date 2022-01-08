@@ -27,11 +27,11 @@ __Esses são meus ultimos vídeos do Youtube! Meu conteúdo está em português,
 These are my latest Youtube videos! My content is in Portuguese, because is my native language. Feel free to subtitle.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Vamos ver a AMD 2022 Products Premiere!](https://www.youtube.com/watch?v=L8-e19BS3Ns)
 - [Um inscrito fez um software de benchmark! - OverMark 0.2.6](https://www.youtube.com/watch?v=jC2YQTMT9SI)
 - [Um pouco sobre Hierarquia de Memória](https://www.youtube.com/watch?v=9GGCuZax2IU)
 - [Como saber se um programa roda na arquitetura do seu processador?](https://www.youtube.com/watch?v=fOcuSP7USHk)
 - [Um pouco de Docker, Kubernetes e outros](https://www.youtube.com/watch?v=Teo2cuu5T_0)
-- [Intel vai trazer Processadores de IA para o x86?](https://www.youtube.com/watch?v=1jBWnoCckkA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [YouTube videos](https://www.youtube.com/channel/UCAlswkPpSbd4ip_oGcTQZWg?sub_confirmation=1)
