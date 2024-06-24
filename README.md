@@ -1,8 +1,14 @@
 # Hello World! 👋
 
-__Meu nome é Arthur Gregório, porém, me chame de Gregório. Sou Engenheiro de Software e estou Pós-graduando em Arquitetura de Software Distribuído pela PUC Minas.__
+👋 Welcome to my GitHub profile! I'm passionate about leveraging technology to drive digital innovation and solve complex challenges in software development.
 
-My name is Arthur Gregório, however, call me Gregório. I'm graduating in Software Engineering at the Pontifical Catholic University of Minas Gerais, my favorite areas of expertise are: software architecture, hardware architecture and operating systems.
+- 🎓 Currently pursuing a postgraduate degree in Distributed Software Architecture at PUC Minas.
+
+### Short Bio
+
+👨‍💻 Development Analyst with expertise in full-stack application development. Proficient in utilizing .NET, React, and AWS to create robust and functional solutions. Experienced in leading teams and embracing new trends in software engineering for innovative solutions.
+
+Let's connect and collaborate on building impactful technological solutions!
 
 ___
 ### 📜 Certificates
